@@ -17,6 +17,13 @@ to catering, mehndi, and honeymoon destinations.
 - MVVM Architecture
 
 This project is part of my journey in Android development 🚀
-![App Screenshot](https://github.com/ItsPrabhaTS/PurelyWed/blob/master/Image/Screenshot_20250905-185113.PurelyWed.png?raw=true)
-![App Screenshot](https://github.com/ItsPrabhaTS/PurelyWed/blob/master/Image/Screenshot_20250905-185147.PurelyWed.png?raw=true)
-![App Screenshot](https://github.com/ItsPrabhaTS/PurelyWed/blob/master/Image/Screenshot_20250905-185213.PurelyWed.png?raw=true)
+
+
+
+
+<p align="center">
+  <img src="https://github.com/ItsPrabhaTS/PurelyWed/blob/master/Image/Screenshot_20250905-185113.PurelyWed.png?raw=true" width="250"/>
+  <img src="https://github.com/ItsPrabhaTS/PurelyWed/blob/master/Image/Screenshot_20250905-185147.PurelyWed.png?raw=true" width="250"/>
+  <img src="https://github.com/ItsPrabhaTS/PurelyWed/blob/master/Image/Screenshot_20250905-185213.PurelyWed.png?raw=true" width="250"/>
+</p>
+
